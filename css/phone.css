@@ -1,0 +1,21 @@
+
+html, body {
+    flex-wrap: wrap;
+}
+
+.left, .right {
+    margin: 0 auto;
+}
+
+.left {
+    width: 70%;
+    min-width: 250px;
+    max-width: 500px;
+    /*display: none;*/
+}
+
+.right {
+    /*display: none;*/
+    background-color: white;
+    width: 100%;
+}
